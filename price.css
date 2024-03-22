@@ -1,0 +1,88 @@
+.header__price {
+  background-image: none;
+}
+.header__price .header__nav {
+  background-color: rgba(249, 249, 249, 1);
+}
+.header__price .header__link {
+  color: black;
+}
+.header__price .header__btn {
+  background-color: rgba(82, 54, 255, 1);
+  color: white;
+}
+.pricing {
+  margin-bottom: 200px;
+}
+.pricing__title {
+  text-align: center;
+}
+.pricing__text {
+  max-width: 606px;
+  text-align: center;
+  margin: 20px auto;
+}
+.pricing__body {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+}
+.price__card-blue {
+  background-color: rgb(82, 54, 255);
+}
+.price__card-blue .price__text,
+.price__card-blue .title,
+.price__card-blue .price__bill {
+  color: white;
+}
+.price__card-blue .price__bill {
+  background: rgb(105, 80, 255);
+}
+.price__card-blue .price__get {
+  background-color: white;
+  color: black;
+}
+
+.table__title {
+  text-align: center;
+  margin-bottom: 80px;
+}
+.table__body {
+  border-radius: 50px;
+  background: rgb(249, 249, 249);
+  padding: 53px 0px 10px 0px;
+}
+.table__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 65px 60px 65px;
+  border-bottom: 1px solid rgba(211, 211, 211, 1);
+}
+.table__col {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.table__main {
+}
+.table__row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 34px 65px;
+}
+.table__main .table__row:nth-child(even) {
+  background-color: white;
+}
+
+.btn {
+}
+.btn-link {
+}
+.table__btn {
+}
+.table__black {
+}
